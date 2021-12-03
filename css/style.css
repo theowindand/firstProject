@@ -344,7 +344,7 @@ nav .nav-link {
 	background-repeat: no-repeat;
 	clip-path: polygon(0 15%, 100% 0, 100% 100%, 0 85%);
 	height: auto;
-	min-height: 120vh;
+	min-height: 1194px;
 	background-size: cover;
 	color: #fff;
 }
@@ -715,7 +715,7 @@ nav .nav-link {
 }
 
 .subscribe-in-soc {
-	padding: 70px 0 177px 0; 
+	padding: 70px 0 44px 0; 
 
 }
 
@@ -752,7 +752,7 @@ nav .nav-link {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 800;
 	font-size: 40px;
-	margin-bottom: 80px;
+	margin-bottom: 70px;
 }
 
 .contacts .address-on-map {
