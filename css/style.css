@@ -724,12 +724,13 @@ nav .nav-link {
 }
 
 .subscribe-in-soc .img-and-txt {
-	display: flex;	
+	display: flex;
+	flex-direction: column;	
 	align-items: center;
 }
 
 .subscribe-in-soc .soc-ico-inst {
-	margin-right: 13px;
+	margin-top: 20px;
 }
 
 .subscribe-in-soc .img-and-txt p {
@@ -739,6 +740,7 @@ nav .nav-link {
 }
 
 .contacts {
+	padding: 110px 0 40px 0;
 	background: url('../img/pexels-scott-webb-5325681.png');
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -750,8 +752,7 @@ nav .nav-link {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 800;
 	font-size: 40px;
-	margin-bottom: 0;
-	padding: 33px 0 30px 0;
+	margin-bottom: 80px;
 }
 
 .contacts .address-on-map {
