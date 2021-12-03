@@ -614,7 +614,7 @@ nav .nav-link {
 
 .slider-license-docs {
 	background-color: #B8EE46;
-	padding: 60px 0;
+	padding: 110px 0 150px 0;
 }
 
 .slider-license-docs_wrapper {
@@ -646,6 +646,10 @@ nav .nav-link {
 .what-do-you-get .slick-next.slick-arrow
  {
 	display: none !important;
+}
+
+.slider-license-docs .slick-dots {
+	bottom: -70px;
 }
 
 .slider-license-docs .slick-dots li button:before {
