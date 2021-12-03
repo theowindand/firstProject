@@ -614,7 +614,7 @@ nav .nav-link {
 
 .slider-license-docs {
 	background-color: #B8EE46;
-	padding: 110px 0 150px 0;
+	padding: 105px 0 160px 0;
 }
 
 .slider-license-docs_wrapper {
@@ -635,7 +635,7 @@ nav .nav-link {
 
 .slider-license-docs h2 {
 	font-family: 'Montserrat', sans-serif;
-	margin-bottom: 100px;
+	margin-bottom: 80px;
 	font-weight: 800;
 	font-size: 40px;
 }
@@ -664,7 +664,7 @@ nav .nav-link {
 .redevelopment {
 	background-color: #333333;
 	color: #fff;
-	padding: 60px 0 42px 0;
+	padding: 104px 0 115px 0;
 	background-image: url('../img/Frame83.png');
 	background-position: right 60%;
 	background-repeat: no-repeat;
