@@ -351,6 +351,7 @@ nav .nav-link {
 
 .project-in-digits h2 {
 	font-weight: 800;
+	margin-bottom: 52px;
 	font-size: 40px;
 	font-family: 'Montserrat', sans-serif;
 }
@@ -362,7 +363,7 @@ nav .nav-link {
 
 .project-in-digits a {
 	padding: 16px 47px !important;
-
+	margin-bottom: 5px;
 }
 
 .amount-and-prices p, .amount-and-prices .p {
@@ -394,7 +395,7 @@ nav .nav-link {
 .if-you-want {
 	background-color: #B8EE46;
 	font-family: 'Montserrat', sans-serif;
-	padding: 60px 0;
+	padding: 38px 0 60px 0;
 }
 
 .if-you-want .container-fluid h2 {
