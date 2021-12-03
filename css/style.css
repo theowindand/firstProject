@@ -395,11 +395,11 @@ nav .nav-link {
 .if-you-want {
 	background-color: #B8EE46;
 	font-family: 'Montserrat', sans-serif;
-	padding: 38px 0 60px 0;
+	padding: 38px 0 103px 0;
 }
 
 .if-you-want .container-fluid h2 {
-	margin-bottom: 60px;
+	margin-bottom: 70px;
 	font-weight: 800;
 	font-size: 40px;
 }
@@ -418,7 +418,7 @@ nav .nav-link {
 
 .what-do-you-get {
 	font-family: 'Montserrat', sans-serif;
-	padding: 80px 0 100px 0;
+	padding: 104px 0 70px 0;
 }
 
 .what-do-you-get .item {
@@ -432,7 +432,7 @@ nav .nav-link {
 
 .what-do-you-get h2 {
 	color: #333333;
-	margin-bottom: 45px;
+	margin-bottom: 77px;
 	font-weight: 800;
 	font-size: 40px;
 }
@@ -450,7 +450,7 @@ nav .nav-link {
 	background-color: #333333;
 	clip-path: polygon(0 0, 100% 25%, 100% 100%, 0% 100%);
 	font-family: 'Montserrat', sans-serif;
-	padding: 150px 0 80px 0;
+	padding: 192px 0 102px 0;
 }
 
 .detailed-consultationem h2 {
@@ -527,7 +527,7 @@ nav .nav-link {
 
 .our-team_slider {
 	background: #fff;
-	padding: 144px 0;
+	padding: 110px 0 114px 0;
 }
 
 .our-team_slider h2 {
