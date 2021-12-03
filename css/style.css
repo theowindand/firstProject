@@ -448,7 +448,7 @@ nav .nav-link {
 
 .detailed-consultationem {
 	background-color: #333333;
-	clip-path: polygon(0 0, 100% 25%, 100% 100%, 0% 100%);
+	clip-path: polygon(0 0, 100% 23%, 100% 100%, 0% 100%);
 	font-family: 'Montserrat', sans-serif;
 	padding: 192px 0 102px 0;
 }
