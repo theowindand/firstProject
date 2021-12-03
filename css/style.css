@@ -241,7 +241,7 @@ nav .nav-link {
 
 .slider-services {
 	font-family: 'Montserrat', sans-serif;
-	padding: 115px 0 100px 0;
+	padding: 110px 0 20px 0;
 }
 
 .slider-services .item {
@@ -300,14 +300,6 @@ nav .nav-link {
     display: block;
 }
 
-
-
-
-
-
-
-
-
 .slick-dots li.slick-active button:before {
     content: '■';
     font-size: 23px;
@@ -327,6 +319,12 @@ nav .nav-link {
     color: #B8EE46;
     opacity: 1;
 }
+
+.slider-services .slick-dots {
+	display: none !important;
+}
+
+
 
 .bg-half-green {
 	width: 100%;
