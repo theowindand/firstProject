@@ -329,7 +329,7 @@ nav .nav-link {
 .bg-half-green {
 	width: 100%;
     height: 100%;
-    background: linear-gradient(to top, #B8EE46 50%, #ffffff 50%);
+    background: linear-gradient(to top, #CEF47E 50%, #ffffff 50%);
 }
 
 .project-in-digits {
@@ -393,7 +393,7 @@ nav .nav-link {
 }
 
 .if-you-want {
-	background-color: #B8EE46;
+	background-color: #CEF47E;
 	font-family: 'Montserrat', sans-serif;
 	padding: 38px 0 103px 0;
 }
@@ -617,7 +617,7 @@ nav .nav-link {
 
 
 .slider-license-docs {
-	background-color: #B8EE46;
+	background-color: #CEF47E;
 	padding: 105px 0 160px 0;
 }
 
